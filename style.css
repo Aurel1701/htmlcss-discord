@@ -52,6 +52,7 @@ li{
     border: none;
     text-decoration: none;
     
+    
 
 }
 .header-container-2{
@@ -83,6 +84,8 @@ p{
     font-size: 20px;
     padding: 16px 32px;
     border: none;
+    box-shadow:5px 5px 10px 2px #333333;
+}
 }
 .white{
     background-color: white;
@@ -167,4 +170,5 @@ h2{
     border: none;
     background-color: purple;
     margin-top: 30px;
+    box-shadow:5px 5px 10px 2px #333333;
 }
