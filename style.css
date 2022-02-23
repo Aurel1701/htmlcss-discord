@@ -121,7 +121,7 @@ h2{
 }
 
 .last-title{
-   
+   margin-top: 50px;
     text-align: center;
     font-size: 35px;
     font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -150,6 +150,7 @@ h2{
     text-align: center;
     background-image:url("file:///Users/aurel96/Desktop/esercizi/htmlcss-discord/htmlcss-discord/img%20/stars.svg") ;
     background-color: #f6f6f6;
+  
 
 }
 .title-footer{
