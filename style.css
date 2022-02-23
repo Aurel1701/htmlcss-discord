@@ -91,11 +91,7 @@ p{
 .black{
     background-color: black;
     color:white;
-}
-
-  
-   
-   
+} 
 
 h2{
     margin-right: 0;
@@ -149,4 +145,25 @@ h2{
     font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
     margin-top: 30px;
 
+}
+.footer{
+    text-align: center;
+    background-image:url("file:///Users/aurel96/Desktop/esercizi/htmlcss-discord/htmlcss-discord/img%20/stars.svg") ;
+    background-color: #f6f6f6;
+
+}
+.title-footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+
+}
+.last-button{
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    border: none;
+    background-color: purple;
+    margin-top: 30px;
 }
