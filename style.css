@@ -4,8 +4,91 @@
     box-sizing: border-box;
 }
 header{
-    object-fit: cover;
-    height:500px;
-    width: 100%;
+    background-image:url("file:///Users/aurel96/Desktop/esercizi/htmlcss-discord/htmlcss-discord/img%20/jumbo.png") ;
+    height: 500px; 
+    background-size: cover;
+    
+    
 
+}
+li{
+    float:left; 
+    list-style: none;
+    margin-left: 10px;
+    color: white;
+    
+ }
+ .info-site{
+     
+     position: relative;
+     display:inline-block;
+ }
+ .container{
+    width: 100vw;
+     float: left;
+     text-align: center;
+     margin-top: 25px;
+     margin-bottom: 100px;
+     
+    
+ }
+ .logo{
+    max-width:150px;
+    display:inline-block;
+    float: left;
+    margin-left: 10%;
+    
+ }
+.button{
+    display:inline-block;
+    float: right;
+    margin-right: 10%;
+    
+
+}
+.button-1{ border-radius: 60px;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    text-decoration: none;
+    
+
+}
+.header-container-2{
+    text-align: center;
+    
+    
+}
+.page{
+    height: 500px;
+}
+h1{
+    color:white;
+    font-size: 56px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+p{
+ font-size: 20px;
+ color: white;
+ font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+ margin-top: 30px ;
+ margin-bottom: 30px; 
+ max-width: 50%;
+ margin-left: 25%;
+
+
+}
+.button-standard{
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    border: none;
+}
+.white{
+    background-color: white;
+    color: black;
+}
+.black{
+    background-color: black;
+    color:white;
 }
