@@ -92,3 +92,61 @@ p{
     background-color: black;
     color:white;
 }
+
+  
+   
+   
+
+h2{
+    margin-right: 0;
+    font-size: 48px;
+    margin-top: 25px;
+    max-width: 80%;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.p-main{
+    font-size: 20px;
+    margin-top: 20px;
+    max-width: 50%;
+}
+.container-img-1{
+    display:flex;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-bottom: 100px;
+    
+}
+.second{ 
+    background-color: #f6f6f6;
+   
+}
+.img-2{
+    margin-right:100px;
+}
+
+.last-title{
+   
+    text-align: center;
+    font-size: 35px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+
+}
+.last-container{
+    display:flex;
+    align-items: center;
+    flex-flow:column;
+
+
+}
+.last-color{
+    background-color: #f6f6f6;
+
+}
+.last-p{
+    text-align: center;
+    max-width: 70%;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 30px;
+
+}
