@@ -3,12 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    width: 100vw;
+}
 header{
     background-image:url("file:///Users/aurel96/Desktop/esercizi/htmlcss-discord/htmlcss-discord/img%20/jumbo.png") ;
     height: 500px; 
     background-size: cover;
-    
-    
 
 }
 li{
@@ -86,7 +87,7 @@ p{
     border: none;
     box-shadow:5px 5px 10px 2px #333333;
 }
-}
+
 .white{
     background-color: white;
     color: black;
@@ -135,7 +136,6 @@ h2{
     display:flex;
     align-items: center;
     flex-flow:column;
-
 
 }
 .last-color{
